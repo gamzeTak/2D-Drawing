@@ -1,0 +1,27 @@
+c:\users\bduman\documents\visual studio 2015\Projects\BGProje1\BGProje1\bin\Debug\BGProje1.exe.config
+c:\users\bduman\documents\visual studio 2015\Projects\BGProje1\BGProje1\bin\Debug\BGProje1.exe
+c:\users\bduman\documents\visual studio 2015\Projects\BGProje1\BGProje1\bin\Debug\BGProje1.pdb
+c:\users\bduman\documents\visual studio 2015\Projects\BGProje1\BGProje1\obj\Debug\BGProje1.csprojResolveAssemblyReference.cache
+c:\users\bduman\documents\visual studio 2015\Projects\BGProje1\BGProje1\obj\Debug\BGProje1.Form1.resources
+c:\users\bduman\documents\visual studio 2015\Projects\BGProje1\BGProje1\obj\Debug\BGProje1.Properties.Resources.resources
+c:\users\bduman\documents\visual studio 2015\Projects\BGProje1\BGProje1\obj\Debug\BGProje1.csproj.GenerateResource.Cache
+c:\users\bduman\documents\visual studio 2015\Projects\BGProje1\BGProje1\obj\Debug\BGProje1.exe
+c:\users\bduman\documents\visual studio 2015\Projects\BGProje1\BGProje1\obj\Debug\BGProje1.pdb
+C:\Users\BDuman\Desktop\BGProje1\BGProje1\bin\Debug\BGProje1.exe.config
+C:\Users\BDuman\Desktop\BGProje1\BGProje1\obj\Debug\BGProje1.exe
+C:\Users\BDuman\Desktop\BGProje1\BGProje1\obj\Debug\BGProje1.pdb
+C:\Users\BDuman\Desktop\BGProje1\BGProje1\bin\Debug\BGProje1.exe
+C:\Users\BDuman\Desktop\BGProje1\BGProje1\bin\Debug\BGProje1.pdb
+C:\Users\BDuman\Desktop\BGProje1\BGProje1\obj\Debug\BGProje1.csprojResolveAssemblyReference.cache
+C:\Users\BDuman\Desktop\BGProje1\BGProje1\obj\Debug\BGProje1.Form1.resources
+C:\Users\BDuman\Desktop\BGProje1\BGProje1\obj\Debug\BGProje1.Properties.Resources.resources
+C:\Users\BDuman\Desktop\BGProje1\BGProje1\obj\Debug\BGProje1.csproj.GenerateResource.Cache
+C:\Users\gamze\Desktop\BGProje1\BGProje1\bin\Debug\BGProje1.exe.config
+C:\Users\gamze\Desktop\BGProje1\BGProje1\obj\Debug\BGProje1.exe
+C:\Users\gamze\Desktop\BGProje1\BGProje1\obj\Debug\BGProje1.pdb
+C:\Users\gamze\Desktop\BGProje1\BGProje1\bin\Debug\BGProje1.exe
+C:\Users\gamze\Desktop\BGProje1\BGProje1\bin\Debug\BGProje1.pdb
+C:\Users\gamze\Desktop\BGProje1\BGProje1\obj\Debug\BGProje1.csprojResolveAssemblyReference.cache
+C:\Users\gamze\Desktop\BGProje1\BGProje1\obj\Debug\BGProje1.Form1.resources
+C:\Users\gamze\Desktop\BGProje1\BGProje1\obj\Debug\BGProje1.Properties.Resources.resources
+C:\Users\gamze\Desktop\BGProje1\BGProje1\obj\Debug\BGProje1.csproj.GenerateResource.Cache

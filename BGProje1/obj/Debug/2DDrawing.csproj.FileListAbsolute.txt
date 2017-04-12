@@ -1,0 +1,3 @@
+C:\Users\gamze\Desktop\BGProje1\BGProje1\bin\Debug\BGProje1.exe.config
+C:\Users\gamze\Desktop\BGProje1\BGProje1\obj\Debug\BGProje1.exe
+C:\Users\gamze\Desktop\BGProje1\BGProje1\obj\Debug\BGProje1.pdb
